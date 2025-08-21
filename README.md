@@ -1,4 +1,4 @@
-This repository contains a Named Entity Recognition (NER) model trained on a modified CoNLL dataset for detecting time expressions.
+This repository contains a Named Entity Recognition (NER) model trained on a modified CoNLL format dataset for detecting time expressions.
 The model follows a BIO tagging scheme with the following labels:
 
 B-T → Beginning of a Time Expression
